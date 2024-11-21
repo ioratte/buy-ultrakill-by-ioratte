@@ -1,0 +1,91 @@
+body {
+color:white;
+background: black;
+margin: 0px;
+}
+header {
+border-bottom: solid 2px red
+padding 20px;
+font-size: 32px;
+color: rgb(42, 122, 228);
+}
+ section {
+    background: red;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;}
+    div {
+        margin-right: 20px;
+    }
+.chamada-texto{
+    margin-right: 5px;
+}body {
+    color: white;
+    background: black;
+    margin: 0px;
+    font-family: "Chakra Petch", sans-serif;
+  }
+  h1{
+    font-size: 40px;
+  }
+  p{
+    font-size: 20px;
+  }
+  img{
+    height: 200px;
+  }
+  .categoria-bosses {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+  }
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  section{
+    background-color: red;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+  }
+  section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+    .chamada {
+      background-color: red;
+      padding-bottom: 80px;
+      padding-top: 80px;
+      display: flex;
+      justify-content: center;
+    }
+    .categoria {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+.categoria-bosses img {
+opacity: 0.5;
+}
+.categoria-bosses img :hover {
+  opacity: 1.0;
+  border: 1px solid green;
+}
+.categoria h2 {
+  color: black;
+}
+.categoria {
+  padding-left: 20px;
+  padding-right: 20px
+  padding-top: 20px;
+}
+body {
+  color: white
+  background: red;
+  margin: 0px;
+  font-family: "chakra patch"
+  margin-bottom: 100px;
+  
+}
